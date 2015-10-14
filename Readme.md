@@ -12,7 +12,6 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 
 ## List
 
-![.DS_Store](emoji/.DS_Store)
 ![300.jpg](emoji/300.jpg)
 ![ayatollah.png](emoji/ayatollah.png)
 ![balkany.png](emoji/balkany.png)
@@ -42,6 +41,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![goat.png](emoji/goat.png)
 ![gold.png](emoji/gold.png)
 ![gold_token.png](emoji/gold_token.png)
+![gorbypuff.png](emoji/gorbypuff.png)
 ![heavy.png](emoji/heavy.png)
 ![hollande.jpg](emoji/hollande.jpg)
 ![jeanmarc.png](emoji/jeanmarc.png)
@@ -66,13 +66,13 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![ricard_pastis.png](emoji/ricard_pastis.png)
 ![sardine.png](emoji/sardine.png)
 ![sarkozy.jpg](emoji/sarkozy.jpg)
+![seatac.png](emoji/seatac.png)
 ![sentry.png](emoji/sentry.png)
 ![sharkdance.gif](emoji/sharkdance.gif)
 ![shout.png](emoji/shout.png)
 ![sidekiq.png](emoji/sidekiq.png)
 ![simpson_burns.gif](emoji/simpson_burns.gif)
 ![supertop.gif](emoji/supertop.gif)
-![tenderlove_cats](emoji/tenderlove_cats)
 ![tf2_inge.png](emoji/tf2_inge.png)
 ![tf2_pyro.gif](emoji/tf2_pyro.gif)
 ![truck.png](emoji/truck.png)
