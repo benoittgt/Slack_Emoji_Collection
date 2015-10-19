@@ -4,6 +4,8 @@ Yes I love having some emoji on my slack channels.
 
 Here is few. Add yours !
 
+If you want to do a mass upload. See [Slekkel](https://github.com/CodeBuffet/Slekkel)
+
 ## Script to generate the list :
 
 ```ruby
@@ -16,6 +18,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![ayatollah.png](emoji/ayatollah.png)
 ![balkany.png](emoji/balkany.png)
 ![barak.png](emoji/barak.png)
+![beef.png](emoji/beef.png)
 ![beni.png](emoji/beni.png)
 ![bking1.png](emoji/bking1.png)
 ![bking2.jpg](emoji/bking2.jpg)
@@ -75,6 +78,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![supertop.gif](emoji/supertop.gif)
 ![tf2_inge.png](emoji/tf2_inge.png)
 ![tf2_pyro.gif](emoji/tf2_pyro.gif)
+![this_is_ryan.gif](emoji/this_is_ryan.gif)
 ![truck.png](emoji/truck.png)
 ![twitter_flame.png](emoji/twitter_flame.png)
 ![vladimir.png](emoji/vladimir.png)
