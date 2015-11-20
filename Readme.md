@@ -16,6 +16,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 
 ![300.jpg](emoji/300.jpg)
 ![ayatollah.png](emoji/ayatollah.png)
+![bagel.png](emoji/bagel.png)
 ![balkany.png](emoji/balkany.png)
 ![barak.png](emoji/barak.png)
 ![beef.png](emoji/beef.png)
@@ -29,6 +30,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![brogan.png](emoji/brogan.png)
 ![chang.png](emoji/chang.png)
 ![chicken_dance.gif](emoji/chicken_dance.gif)
+![chinois.png](emoji/chinois.png)
 ![chirac.jpg](emoji/chirac.jpg)
 ![chiracjambon.gif](emoji/chiracjambon.gif)
 ![chut.png](emoji/chut.png)
@@ -61,6 +63,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![meme.png](emoji/meme.png)
 ![meme2.png](emoji/meme2.png)
 ![money-flying.gif](emoji/money-flying.gif)
+![money_count.gif](emoji/money_count.gif)
 ![mustach.png](emoji/mustach.png)
 ![notsure.jpg](emoji/notsure.jpg)
 ![owl.png](emoji/owl.png)
