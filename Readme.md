@@ -15,8 +15,6 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ## List
 
 ![300.jpg](emoji/300.jpg)
-![ardno.png](emoji/ardno.png)
-![ardyay.png](emoji/ardyay.png)
 ![awkward.png](emoji/awkward.png)
 ![ayatollah.png](emoji/ayatollah.png)
 ![bagel.png](emoji/bagel.png)
@@ -97,6 +95,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![pivotlike.png](emoji/pivotlike.png)
 ![pizza.png](emoji/pizza.png)
 ![pocket.png](emoji/pocket.png)
+![pogchamp.png](emoji/pogchamp.png)
 ![poop3d.gif](emoji/poop3d.gif)
 ![pyro_run.gif](emoji/pyro_run.gif)
 ![ricard_pastis.png](emoji/ricard_pastis.png)
