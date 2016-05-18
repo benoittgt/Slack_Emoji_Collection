@@ -67,6 +67,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![holovr.png](emoji/holovr.png)
 ![impossibru.gif](emoji/impossibru.gif)
 ![inception.png](emoji/inception.png)
+![jacouille.png](emoji/jacouille.png)
 ![jeanmarc.png](emoji/jeanmarc.png)
 ![jesus_phone.png](emoji/jesus_phone.png)
 ![jpp.png](emoji/jpp.png)
