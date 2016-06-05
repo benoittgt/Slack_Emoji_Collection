@@ -112,6 +112,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![sharkdance.gif](emoji/sharkdance.gif)
 ![shout.png](emoji/shout.png)
 ![sidekiq.png](emoji/sidekiq.png)
+![sidi.png](emoji/sidi.png)
 ![simpson_burns.gif](emoji/simpson_burns.gif)
 ![smell.png](emoji/smell.png)
 ![standup.gif](emoji/standup.gif)
