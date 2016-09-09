@@ -46,6 +46,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![dansgame2.png](emoji/dansgame2.png)
 ![dawson.jpg](emoji/dawson.jpg)
 ![do-it.png](emoji/do-it.png)
+![dogasrm.png](emoji/dogasrm.png)
 ![doge.png](emoji/doge.png)
 ![dont.png](emoji/dont.png)
 ![dramatic_look.png](emoji/dramatic_look.png)
