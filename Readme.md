@@ -33,6 +33,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![brogan.png](emoji/brogan.png)
 ![burgeryummy.png](emoji/burgeryummy.png)
 ![calma.png](emoji/calma.png)
+![captain.png](emoji/captain.png)
 ![catgasp.png](emoji/catgasp.png)
 ![chang.png](emoji/chang.png)
 ![chinese_outfit](emoji/chinese_outfit)
