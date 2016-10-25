@@ -122,6 +122,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![script_kiddie.png](emoji/script_kiddie.png)
 ![seatac.png](emoji/seatac.png)
 ![sentry.png](emoji/sentry.png)
+![sgrif.png](emoji/sgrif.png)
 ![sharkdance.gif](emoji/sharkdance.gif)
 ![shout.png](emoji/shout.png)
 ![sidekiq.png](emoji/sidekiq.png)
@@ -145,3 +146,4 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![unclebob.png](emoji/unclebob.png)
 ![vladimir.png](emoji/vladimir.png)
 ![wat.png](emoji/wat.png)
+![whatelse.png](emoji/whatelse.png)
