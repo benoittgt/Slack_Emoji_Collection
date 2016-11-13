@@ -24,6 +24,7 @@ File.open('Readme.md', 'a') { |f| Dir.entries('./emoji').each { |emoji| f.write(
 ![bastogne.png](emoji/bastogne.png)
 ![beef.png](emoji/beef.png)
 ![beni.png](emoji/beni.png)
+![bitcoin.png](emoji/bitcoin.png)
 ![bking1.png](emoji/bking1.png)
 ![bking2.jpg](emoji/bking2.jpg)
 ![bking3.jpg](emoji/bking3.jpg)
